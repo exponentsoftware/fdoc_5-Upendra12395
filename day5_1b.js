@@ -37,6 +37,7 @@ let mostlyUsed15Languages = []
 for(let i=0; i<15; i++){
     mostlyUsed15Languages.push(obj[i])
 }
+console.log("Mostly used top 15 languages in country API")
 console.log(mostlyUsed15Languages)
 }
 
