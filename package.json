@@ -17,7 +17,5 @@
     "url": "https://github.com/exponentsoftware/fdoc_5-Upendra12395/issues"
   },
   "homepage": "https://github.com/exponentsoftware/fdoc_5-Upendra12395#readme",
-  "dependencies": {
-    "axios": "^0.22.0"
-  }
+  "dependencies": {}
 }
