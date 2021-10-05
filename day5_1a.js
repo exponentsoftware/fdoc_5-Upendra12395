@@ -20,7 +20,7 @@ const totalLanguage = async ()=>{
         }
     }
     let uniq = [...new Set(languagesArray)];
-    console.log("Total Number of languagesin country api " +uniq.length)
+    console.log("Total Number of languages in country api " +uniq.length)
 }
 
 totalLanguage()
