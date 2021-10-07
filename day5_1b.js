@@ -11,7 +11,7 @@ const getMostlyUsedLanguages = async ()=>{
     }
 //creating array of total language used
     for(let i=0; i<language.length;i++){
-        if (i == 144){              //used to skip, there is NULL value
+        if (i == 157){              //used to skip, there is NULL value
             continue
         }
         let keyLength = Object.keys(language[i]).length        
